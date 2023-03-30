@@ -9,17 +9,17 @@ import lombok.Setter;
 public class UserDto {
     private Long userId;
 
-    private String userName;
+    private String username;
 
-    private String firstName;
+    private String firstname;
 
-    private String lastName;
+    private String lastname;
 
     private String password;
 
     private String email;
 
-    private String phoneNo;
+    private String phoneno;
 
     private boolean enabled = true;
 
